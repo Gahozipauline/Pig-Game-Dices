@@ -1,6 +1,8 @@
 body {
     text-align: center;
     background-color: #dadada;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZFr09mkiK3GtniPcBpKWrC3f5EOEhSdbB_TMwAA8Dyz7zriit');
+    background-size: cover;
     
   }
   
@@ -14,7 +16,8 @@ body {
   }
   
   #title {
-    font-size: 72px;
+    font-size: 60
+    px;
   }
   
   h2 {
@@ -69,4 +72,8 @@ body {
   
   #player-two-buttons {
     display: none;
+  }
+  p{
+    color:white;
+    size:50px;
   }

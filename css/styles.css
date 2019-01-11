@@ -1,8 +1,6 @@
 body {
     text-align: center;
-    background-color: #dadada;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZFr09mkiK3GtniPcBpKWrC3f5EOEhSdbB_TMwAA8Dyz7zriit');
-    background-size: cover;
+    background-color: burlywood;
     
   }
   
@@ -75,5 +73,5 @@ body {
   }
   p{
     color:white;
-    size:50px;
+    size:60px;
   }

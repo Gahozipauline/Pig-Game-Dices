@@ -1,5 +1,5 @@
 # Project name
-Pig Game Dice
+Pig Dice Game
 # Author name
 Pauline AYINGENEYE
 # Description of the project

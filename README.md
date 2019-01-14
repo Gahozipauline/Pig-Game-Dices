@@ -17,6 +17,8 @@ The first player to score 100 or more points wins
  HTML
  Jquery
  CSS
+ ### Other technologies
+ Bootstrap
  # Link to live site on git pages
  https://github.com/Gahozipauline/Pig-Game-Dices
  # copyright and licence information

@@ -13,6 +13,10 @@ body {
     font-family: 'Erica One', sans-serif;
     color:black;
     font-style: italic;
+    background-color: sandybrown;
+    margin-right: 40px;
+    margin-left: 40px;
+    border-radius: 30px;
   }
   
   #title {
@@ -90,4 +94,6 @@ body {
     font-size: 20px;
     margin-right: 40px;
     margin-left: 40px;
+    border-radius: 30px;
+    padding-top: 30px;
   }
